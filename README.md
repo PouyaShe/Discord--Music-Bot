@@ -1,24 +1,22 @@
 # زبان فارسی
-[![Deploy on Herokucd](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Discord-Music-Bot/)
 
-[![Use on Replit](https://repl.it/badge/github/Sobhan-SRZA/Discord-Music-Bot/)](https://repl.it/github/Sobhan-SRZA/Discord-Music-Bot/)
+
+[![Use on Replit](https://github.com/PouyaShe/Discord--Music-Bot/)]
 ## آدرس های من در فضای مجازی👇🏼🙃
 
 
 
-آدرس [توییچ](https://www.twitch.tv/sobhan_srza)
+آدرس [توییچ](https://www.twitch.tv/shafieepouya)
  
-آدرس کانال [تلگرام من](https://t.me/SobhanSRZA)
+آدرس کانال [تلگرام من](https://t.me/Pouyyakp11321)
 
-آدرس [اینستگرام](https://www.instagram.com/srza._.gamer)
+آدرس [اینستگرام](https://www.instagram.com/ho33inshafiee)
  
 آدرس [آپارات](https://www.aparat.com/Sobhan.SRZA)
 
-آدرس [یوتوب](https://b2n.ir/srza.-.gamer)
+آدرس [دیسکورد](https://discord.gg/9WZC2jXkts)
 
-آدرس [دیسکورد](https://discord.gg/bNpqrdXNNn)
-
-آدرس [یوتوب](https://b2n.ir/srza._.action)
+آدرس [سایت](http://pouya.z68.ir)
 
 
 ## آموزش نصب و ران کردن بات
@@ -61,26 +59,21 @@ PREFIX="Youre-bot-prefix"
 
 
 ## Language EN
-[![Deploy on Herokucd](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sobhan-SRZA/Discord-Music-Bot/)
 
-[![Use on Replit](https://repl.it/badge/github/Sobhan-SRZA/Discord-Music-Bot/)](https://repl.it/github/Sobhan-SRZA/Discord-Music-Bot/)
+[![Use on Replit](https://github.com/PouyaShe/Discord--Music-Bot/)]
 
 ## My addresses in cyberspace 👇🏼🙃📡
 
 
-[Twich](https://www.twitch.tv/sobhan_srza) address
+[Twich](https://www.twitch.tv/shafieepouya) address
  
-My [Telegram](https://t.me/SobhanSRZA) Channel Address
+My [Telegram](https://t.me/pouyakp11321) Channel Address
 
-[Instegram](https://www.instagram.com/srza._.gamer) address
- 
-Address of the [Aparat](https://www.aparat.com/Sobhan.SRZA)
+[Instegram](https://www.instagram.com/ho33inshafiee) address
 
-[YouTube](https://b2n.ir/srza.-.gamer) address
+[Discord](https://discord.gg/9WZC2jXkts)address
 
-[Discord](https://discord.gg/bNpqrdXNNn)address
-
-[YouTube](https://b2n.ir/srza._.action) address
+[Site](htt://pouya.z68.ir) address
 
 
 
