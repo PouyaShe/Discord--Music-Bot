@@ -115,8 +115,5 @@ Your bot is on and ready to go
 
 ---
 
-- **👌 Project**
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Discord-Music-Bot&theme=react" alt="Readme-Card.png">
-  </a>
-</p>
+- **👌 Project By Hossein (PouyA) Shafiee**
+
