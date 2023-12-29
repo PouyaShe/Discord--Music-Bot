@@ -8,15 +8,15 @@
 
 آدرس [توییچ](https://www.twitch.tv/shafieepouya)
  
-آدرس کانال [تلگرام من](https://t.me/Pouyyakp11321)
+کانال [تلگرام من](https:/t.me/Pouyakp1132)
 
 آدرس [اینستگرام](https://www.instagram.com/ho33inshafiee)
  
-آدرس [آپارات](https://www.aparat.com/Sobhan.SRZA)
+آدرس [آپارات](https://aparat.com/hosseinvid)
 
 آدرس [دیسکورد](https://discord.gg/9WZC2jXkts)
 
-آدرس [سایت](http://pouya.z68.ir)
+آدرس [سایت](https://hosseinsh.ir)
 
 
 ## آموزش نصب و ران کردن بات
@@ -67,13 +67,13 @@ PREFIX="Youre-bot-prefix"
 
 [Twich](https://www.twitch.tv/shafieepouya) address
  
-My [Telegram](https://t.me/pouyakp11321) Channel Address
+My [Telegram](https://t.me/pouyakp1132) Channel Address
 
 [Instegram](https://www.instagram.com/ho33inshafiee) address
 
 [Discord](https://discord.gg/9WZC2jXkts)address
 
-[Site](htt://pouya.z68.ir) address
+[Site](https://hosseinsh.ir) address
 
 
 
@@ -116,8 +116,7 @@ Your bot is on and ready to go
 ---
 
 - **👌 Project**
-<p align="center">
-  <a href="https://github.com/Sobhan-SRZA/Chocolate-Boy/" target="_blank"> 
+<p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Discord-Music-Bot&theme=react" alt="Readme-Card.png">
   </a>
 </p>
