@@ -1,7 +1,7 @@
 # زبان فارسی
 
 
-[![Use on Replit](https://github.com/PouyaShe/Discord--Music-Bot/)]
+
 ## آدرس های من در فضای مجازی👇🏼🙃
 
 
@@ -60,7 +60,7 @@ PREFIX="Youre-bot-prefix"
 
 ## Language EN
 
-[![Use on Replit](https://github.com/PouyaShe/Discord--Music-Bot/)]
+
 
 ## My addresses in cyberspace 👇🏼🙃📡
 
